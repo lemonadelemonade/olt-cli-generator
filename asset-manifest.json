@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/olt-cli-generator/static/css/main.3427c4e6.css",
+    "main.js": "/olt-cli-generator/static/js/main.bf5992b7.js",
+    "static/js/453.155facc2.chunk.js": "/olt-cli-generator/static/js/453.155facc2.chunk.js",
+    "index.html": "/olt-cli-generator/index.html",
+    "main.3427c4e6.css.map": "/olt-cli-generator/static/css/main.3427c4e6.css.map",
+    "main.bf5992b7.js.map": "/olt-cli-generator/static/js/main.bf5992b7.js.map",
+    "453.155facc2.chunk.js.map": "/olt-cli-generator/static/js/453.155facc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3427c4e6.css",
+    "static/js/main.bf5992b7.js"
+  ]
+}
